@@ -3,6 +3,8 @@ import 'firebase/database';
 import 'firebase/auth';
 import 'firebase/storage';
 
+// Aqui você coloca a sua conexão com o Firebase.
+
 class Firebase {
 
     constructor() {
